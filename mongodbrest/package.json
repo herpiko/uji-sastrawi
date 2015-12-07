@@ -1,0 +1,14 @@
+{
+  "name": "mongodbrest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "herpiko dwi aguno <herpiko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb-rest": "^0.10.14"
+  }
+}
